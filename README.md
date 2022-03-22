@@ -1,2 +1,2 @@
-# MyCV
-CV
+# Game Tetris
+
